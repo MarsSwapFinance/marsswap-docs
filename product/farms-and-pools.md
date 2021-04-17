@@ -1,4 +1,4 @@
-# Farms & Pools
+# Farms & Pools
 
 There will be 10 pools & farms at launch. These will include 3 synthetic assets: Apple \(mAAPL\), Microsoft \(mMSFT\), and Amazon \(mAMZN\).
 

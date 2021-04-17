@@ -7,7 +7,7 @@
 
 ## Product
 
-* [Farms & Pools](product/farms-and-pools.md)
+* [Farms & Pools](product/farms-and-pools.md)
 * [Flash Loans](product/flash-loans.md)
 * [Governance Based Migrations](product/governance-based-migrations.md)
 
@@ -16,5 +16,5 @@
 * [Timelock Contract](security/timelock-contract.md)
 * [Deployed on GitHub Pages](security/deployed-on-github-pages.md)
 * [Emergency Withdraw](security/emergency-withdraw.md)
-* [No Stealth Launch](security/no-stealth-launch.md)
+* [No Stealth Launch](security/no-stealth-launch.md)
 

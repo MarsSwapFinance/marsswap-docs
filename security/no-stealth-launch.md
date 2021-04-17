@@ -1,4 +1,4 @@
-# No Stealth Launch
+# No Stealth Launch
 
 Many yield farm projects make an early private launch of the farms. This allows a few selected to get all the benefits and then dump all the tokens as soon as the farms become public.
 
