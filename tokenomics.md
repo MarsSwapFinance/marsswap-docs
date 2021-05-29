@@ -18,15 +18,17 @@ In order to ensure the sustainability of the project, and to maintain MARS' pric
 From day 1 we are committed to launching a protocol that is as fair and inclusive as possible, ensuring that both small and big players can benefit from the protocol in the same way.  
 MarsSwap will accomplish this by realizing a presale of 100% of the MARS tokens initial supply.
 
-Our initial minting will be of 100,000 MARS, which will be sold at a fixed price to ensure fairness.
+Initial minting: 125,000 MARS.  
+There is no private token sale, and no dev team allocation.  
+  
+**Initial supply allocation and distribution:**
 
-There is also no private token sale or dev team allocation.  
-All the pre-minted tokens will be used for liquidity and this will never be removed.
+* 100,000 MARS sold at a fixed price to ensure fairness.
+* 25,000 MARS will be used for liquidity and this will never be removed.
+  * 50% in MARS-BUSD LP \(locked forever\).
+  * 50% in MARS-BNB LP \(locked forever\).
 
-Distribution of the initial liquidity:
 
-* 50% in MARS-BUSD LP \(locked forever\).
-* 50% in MARS-BNB LP \(locked forever\).
 
 To ensure safety of liquidity and funds, and to discourage liquidity bots and hinder whale participation, the sale processes will be conducted in conjunction with a platform specialized in pre-sales and IPOs.
 
