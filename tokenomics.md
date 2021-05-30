@@ -21,12 +21,25 @@ MarsSwap will accomplish this by realizing a presale of 100% of the MARS tokens 
 Initial minting: 125,000 MARS.  
 There is no private token sale, and no dev team allocation.  
   
-**Initial supply allocation and distribution:**
+**Initial MARS supply allocation and distribution:**
 
 * 100,000 MARS sold at a fixed price to ensure fairness.
 * 25,000 MARS will be used for liquidity and this will never be removed.
   * 50% in MARS-BUSD LP \(locked forever\).
   * 50% in MARS-BNB LP \(locked forever\).
+
+### 
+
+### Pre-sale fund allocation:
+
+The funds proceeding from the 100,000 MARS distributed via the pre-sale process will be allocated as follows:
+
+* 25% of the total fund will be used to provide liquidity, and will never be removed:
+  * 50% in MARS-BUSD LP \(locked forever\).
+  * 50% in MARS-BNB LP \(locked forever\).
+* 50% will be used to make new hirings, grow the team and develop MarsSwap's ambitious [roadmap](https://docs.marsswap.finance/roadmap) and integrating with 1INCH, among other popular dex aggregators.
+* 15% will be used for marketing, community management and design efforts.
+* 10% will be used to establish mid- and long-term partnerships with other platforms which leverage MarsSwap's features.
 
 
 
