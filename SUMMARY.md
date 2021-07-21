@@ -7,7 +7,6 @@
 
 ## Product
 
-* [Farms & Pools](product/farms-and-pools.md)
 * [Flash Loans](product/flash-loans.md)
 * [Governance Based Migrations](product/governance-based-migrations.md)
 
