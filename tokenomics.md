@@ -31,9 +31,9 @@ There is no private token sale, and no dev fund, or team allocation.
 
 The funds proceeding from the 1,000,000 MARS distributed via the pre-sale process will be allocated as follows:
 
-* 25% of the total fund will be used to provide MARS-BNB LP liquidity in MarsSwap's AMM, and will never be removed.
+* 15% of the total fund will be used to provide MARS-BNB LP liquidity in MarsSwap's AMM, and will never be removed.
 * 50% will be used to make new hirings, grow the team and develop MarsSwap's ambitious [roadmap](https://docs.marsswap.finance/roadmap) and integrating with 1INCH, among other popular dex aggregators.
-* 15% will be used for marketing, community management and design efforts.
+* 25% will be used for marketing, community management and design efforts.
 * 10% will be used to establish mid- and long-term partnerships with other platforms which leverage MarsSwap's features.
 
 
