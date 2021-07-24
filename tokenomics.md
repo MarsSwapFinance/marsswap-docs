@@ -31,7 +31,7 @@ There is no private token sale, and no dev fund, or team allocation.
 
 The funds proceeding from the 1,000,000 MARS distributed via the pre-sale process will be allocated as follows:
 
-* 25% of the total fund will be used to provide MARS-BNB LP liquidity in PancakeSwapV2, and will never be removed.
+* 25% of the total fund will be used to provide MARS-BNB LP liquidity in MarsSwap's AMM, and will never be removed.
 * 50% will be used to make new hirings, grow the team and develop MarsSwap's ambitious [roadmap](https://docs.marsswap.finance/roadmap) and integrating with 1INCH, among other popular dex aggregators.
 * 15% will be used for marketing, community management and design efforts.
 * 10% will be used to establish mid- and long-term partnerships with other platforms which leverage MarsSwap's features.
@@ -40,7 +40,7 @@ The funds proceeding from the 1,000,000 MARS distributed via the pre-sale proces
 
 To ensure safety of liquidity and funds, and to discourage liquidity bots and hinder whale participation, the sale processes will be conducted in conjunction with a platform specialised in pre-sales and IPOs.
 
-In the event that any MARS are left unsold, 1000% of the remaining MARS Tokens will be burned. **The dev team will keep no MARS. We will participate in the presale process like everyone else.**
+In the event that any MARS are left unsold, 100% of the remaining MARS Tokens will be burned. **The dev team will keep no MARS. We will participate in the presale process like everyone else.**
 
 ## Platform Development and Sustainability
 
