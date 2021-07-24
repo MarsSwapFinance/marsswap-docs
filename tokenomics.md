@@ -6,12 +6,6 @@
 * Reward halving every 6 months. Proposal via Governance.
 * MARS will be burnt on a regular schedule. The amount will be relative to the deposits on farms & pools.
 
-## **Enhanced burning mechanisms**
-
-In order to ensure the sustainability of the project, and to maintain MARS' price stable over time, MARS features an enhanced burning mechanism.
-
-A fixed 4% deposit fee is set up for all non-MARS Farms and Pools. **100% of this fee will be burned** in order to maintain MARS's price stability. MarsSwap will not profit from this deposit fee, given that it will be burned in its totality.
-
 ## **Launch & Sale Schema**
 
 To ensure that both small and big players can benefit from the protocol in the same way, MarsSwap will perform a presale of 100% of the MARS tokens initial supply.
