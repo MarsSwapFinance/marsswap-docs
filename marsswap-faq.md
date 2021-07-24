@@ -34,6 +34,6 @@ By implementing MarsSwap's Governance solution, MARS holders will be able to vot
 
 Upgrades via Governance can take two different shapes:
 
-* Any _minor_ updates and changes to MarsSwaps' current setup \(i.e: updating Fees\) will be **proposed by MARS holders**. Once a new proposal is submitted, the voting process will take place among MARS holders.
+* Any _minor_ updates and changes to MarsSwaps' current setup \(i.e: updating the Emission Rate\) will be **proposed by MARS holders**. Once a new proposal is submitted, the voting process will take place among MARS holders.
 * Any major upgrades to MarsSwap's protocol \(i.e: the eventual migration to MasterPlanetv2 in order to enable some of the advanced features in the Roadmap\) will be **proposed by the dev team**, who will provide both the proposed changes and extensive documentation regarding major changes and possible impacts. Once a new proposal is submitted, the voting process will take place among MARS holders.
 
