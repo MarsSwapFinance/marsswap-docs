@@ -4,6 +4,7 @@
 * [Roadmap](roadmap.md)
 * [Tokenomics](tokenomics.md)
 * [MarsSwap FAQ](marsswap-faq.md)
+* [How to buy stocks?](how-to-buy-stocks.md)
 
 ## Product
 
